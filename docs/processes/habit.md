@@ -28,4 +28,4 @@ For Lab 4, I think this should contain:
 The Table of Contents' format may change for Lab 4, but this is just to get the main pages set up.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](adaptive.md) &nbsp; &nbsp; &nbsp; <br><br> [[-> Next Habit Stacking Page]](../interfaces/habit-gui.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](adaptive.md) &nbsp; &nbsp; &nbsp; <br><br> [[-> Next Habit Stacking Page]]({{ site.baseurl }}/interfaces/habit-gui.md)
