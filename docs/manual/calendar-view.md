@@ -4,7 +4,8 @@ title: Gold Star Feature - Calendar View
 ---
 
 
-## Calendar View **Authors:** Maggie Bragg, Matthew Allen
+## Calendar View 
+#### **Authors:** Maggie Bragg, Matthew Allen
 
 This feature allows Schedulers to view all of their tasks planned for any given month or day.
 When an individual day is selected, each of the Scheduler’s tasks for the specified day is
@@ -40,4 +41,4 @@ Clicking on the pencil icon on an existing task will bring you to Gold Star's Ta
 
 Clicking on the trash icon on an existing task will open a confirmation window that will ask "Are you sure you want to delete this task?". Clicking "Yes" will delete the task from your calendar. Clicking "No" will keep the task as is. 
 
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Feature List](../) &nbsp; &nbsp; &nbsp; [[-> Next Page]](task-management.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Feature List](index.md) &nbsp; &nbsp; &nbsp; [[-> Next Feature]](task-management.md)
