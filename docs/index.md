@@ -11,11 +11,9 @@ Gold Star is a web-based habit-building and time management platform to help use
 
 ## Table of Contents
 
+- [Gold Star User Manual](manual/)
 - [References](references/)
 - [Glossary & Definitions](glossary/)
-- [Processes](processes/)
-- [Interfaces](interfaces/)
-- [Tasks](tasks/)
 - [Gold Star Website](https://mbrag003.github.io/CS410-411W-Gold/)
 - [ODU Website](https://www.odu.edu)
 - [ODU Computer Science Department Website](https://www.odu.edu)
