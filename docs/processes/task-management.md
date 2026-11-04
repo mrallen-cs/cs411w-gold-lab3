@@ -28,4 +28,4 @@ The Table of Contents' format may change for Lab 4, but this is just to get the 
 Same idea as the last section. I split this into two parts in case we needed to specify each part separately.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](calendar-view.md) &nbsp; &nbsp; &nbsp; [[-> Next Process Page]](priority.md) <br><br> [[-> Next Task Management Page]](/interfaces/task-management-gui.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](calendar-view.md) &nbsp; &nbsp; &nbsp; [[-> Next Process Page]](priority.md) <br><br> [[-> Next Task Management Page]](../interfaces/task-management-gui.md)

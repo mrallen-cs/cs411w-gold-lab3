@@ -23,4 +23,4 @@ For Lab 4, I think this should contain:
 The Table of Contents' format may change for Lab 4, but this is just to get the main pages set up.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](priority.md) &nbsp; &nbsp; &nbsp; [[-> Next Process Page]](adaptive.md) <br><br> [[-> Next Daily Mood Check-In Page]](/interfaces/mood-gui.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](priority.md) &nbsp; &nbsp; &nbsp; [[-> Next Process Page]](adaptive.md) <br><br> [[-> Next Daily Mood Check-In Page]](../interfaces/mood-gui.md)
