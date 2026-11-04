@@ -12,5 +12,6 @@ title: Gold Star References Page
 - Kreider, C. M., Medina, S., & Slamka, M. R. (2019). Strategies for Coping with Time-Related and Productivity Challenges of Young People with Learning Disabilities and Attention-Deficit/Hyperactivity Disorder. Children (Basel, Switzerland), 6(2), 28. https://doi.org/10.3390/children6020028
 - Ogrodnik, M., Karsan, S., Malamis, B., Kwan, M., Fenesi, B., & Heisz, J. J. (2023). Exploring Barriers and Facilitators to Physical Activity in Adults with ADHD: A Qualitative Investigation. Journal of developmental and physical disabilities, 1–21. Advance online publication. https://doi.org/10.1007/s10882-023-09908-6
 - Staley, B.S., Robinson, L.R., Claussen, A.H., Katz, S.M., Danielson, M.L., Summers, A.D., Farr, S.L., Blumberg, S.J., & Tinker, S.C. (2024). Attention-Deficit/Hyperactivity Disorder Diagnosis, Treatment, and Telehealth Use in Adults — National Center for Health Statistics Rapid Surveys System, United States, October–November 2023. U.S. Centers for Disease Control and Prevention Morbidity and Mortality Weekly Report, 70(40), 890-895. https://www.cdc.gov/mmwr/volumes/73/wr/pdfs/mm7340a1-H.pdf
+- Team Gold. (2026, August 31). Gold Star: ADHD Routine Improvement Application. Gold Star. https://mbrag003.github.io/CS410-411W-Gold/.
 
 [Return to Homepage](../)
