@@ -24,4 +24,4 @@ For Lab 4, I think this should contain:
 The Table of Contents' format may change for Lab 4, but this is just to get the main pages set up.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](index.md) &nbsp; &nbsp; &nbsp; [[-> Next Process Page]](task-management.md) <br><br> [[-> Next Calendar View Page]](../interfaces/monthly-view.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to List of Processes](index.md) &nbsp; &nbsp; &nbsp; [[<- Previous Process Page]](index.md) &nbsp; &nbsp; &nbsp; [[-> Next Process Page]](task-management.md) <br><br> [[-> Next Calendar View Page]](../interfaces/monthly-view.html)
