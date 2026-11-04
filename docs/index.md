@@ -14,7 +14,7 @@ Gold Star is a web-based habit-building and time management platform to help use
 
 - [References](references/)
 - [Glossary & Definitions](glossary/)
-- [Table of Contents](labs/)
+- [Table of Contents](contents/)
 - [Processes](processes/)
 - [Interfaces](interfaces/)
 - [Tasks](tasks/)
