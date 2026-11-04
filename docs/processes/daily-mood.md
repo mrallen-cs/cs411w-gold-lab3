@@ -8,12 +8,12 @@ title: How to Use Gold Star's Daily Mood Check-In
 
 ## Interface Page
 {:start="2"}
-2. [What the Daily Mood Check-In Looks Like](/interfaces/mood-gui.html)
+2. [What the Daily Mood Check-In Looks Like](../interfaces/mood-gui.html)
 
 ## Task Pages
 {:start="3"}
-3. [How to Select a Daily Mood](/tasks/select-mood.html)
-4. [How to Change a Daily Mood](/tasks/edit-mood.html)
+3. [How to Select a Daily Mood](../tasks/select-mood.html)
+4. [How to Change a Daily Mood](../tasks/edit-mood.html)
 
 # What is the Daily Mood Check-In?
 From what I understood, processes serve as the high-level explanation of our System Features from Lab 2. Interfaces serve as UI/"figure" references, while tasks are the individual functionalities ("e.g., how to log in, how to add a contact, how to not download more RAM")

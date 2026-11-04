@@ -8,12 +8,12 @@ title: How to Set a Task's Priority Level
 
 ## Interface Page
 {:start="2"}
-2. [What Task Priority Levels Look Like](/interfaces/priority-gui.html)
+2. [What Task Priority Levels Look Like](../interfaces/priority-gui.html)
 
 ## Task Pages
 {:start="3"}
-3. [How to View Task Priority Levels](/tasks/view-priority.html)
-4. [How to Edit Task Priority Levels](/tasks/edit-priority.html)
+3. [How to View Task Priority Levels](../tasks/view-priority.html)
+4. [How to Edit Task Priority Levels](../tasks/edit-priority.html)
 
 # What is a Task Priority Level?
 From what I understood, processes serve as the high-level explanation of our System Features from Lab 2. Interfaces serve as UI/"figure" references, while tasks are the individual functionalities ("e.g., how to log in, how to add a contact, how to not download more RAM")

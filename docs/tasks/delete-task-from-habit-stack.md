@@ -13,4 +13,4 @@ The system shall allow the Scheduler to remove one or more specified tasks withi
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](edit-habit-stack.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](delete-habit-stack.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](edit-habit-stack.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](delete-habit-stack.md)

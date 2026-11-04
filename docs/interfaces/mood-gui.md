@@ -13,4 +13,4 @@ Heading placed here in case we need it for Lab 4.
 Heading placed here in case we need it for Lab 4.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/daily-mood.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/processes/daily-mood.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](/tasks/select-mood.html)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/daily-mood.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](../processes/daily-mood.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](../tasks/select-mood.html)

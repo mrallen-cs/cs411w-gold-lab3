@@ -13,4 +13,4 @@ The system shall allow the Scheduler to remove one of their saved Habit Stacks.
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](delete-task-from-habit-stack.md) &nbsp; &nbsp; &nbsp;
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](delete-task-from-habit-stack.md) &nbsp; &nbsp; &nbsp;

@@ -36,4 +36,4 @@ The system shall validate each inputted task property for the following criteria
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/priority.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](/interfaces/priority-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-priority.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/priority.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](../interfaces/priority-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-priority.md)

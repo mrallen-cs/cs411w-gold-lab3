@@ -9,16 +9,16 @@ title: How to Use Gold Star's Habit Stacking
 
 ## Interface Page
 {:start="2"}
-2. [What Habit Stacking Looks Like](/interfaces/habit-gui.html)
+2. [What Habit Stacking Looks Like](../interfaces/habit-gui.html)
 
 ## Task Pages
 {:start="3"}
-3. [How to Create a New Habit Stack](/tasks/create-habit-stack.html)
-4. [How to Save a New Habit Stack](/tasks/save-habit-stack.html)
-5. [How to View Tasks within Existing Habit Stack](/tasks/view-habit-stack.html)
-6. [How to Edit Tasks within Existing Habit Stack](/tasks/edit-habit-stack.html)
-7. [How to Remove Tasks within Existing Habit Stack](/tasks/delete-task-from-habit-stack.html)
-8. [How to Delete an Entire Habit Stack](/tasks/delete-habit-stack.html)
+3. [How to Create a New Habit Stack](../tasks/create-habit-stack.html)
+4. [How to Save a New Habit Stack](../tasks/save-habit-stack.html)
+5. [How to View Tasks within Existing Habit Stack](../tasks/view-habit-stack.html)
+6. [How to Edit Tasks within Existing Habit Stack](../tasks/edit-habit-stack.html)
+7. [How to Remove Tasks within Existing Habit Stack](../tasks/delete-task-from-habit-stack.html)
+8. [How to Delete an Entire Habit Stack](../tasks/delete-habit-stack.html)
 
 # What is Habit Stacking?
 From what I understood, processes serve as the high-level explanation of our System Features from Lab 2. Interfaces serve as UI/"figure" references, while tasks are the individual functionalities ("e.g., how to log in, how to add a contact, how to not download more RAM")

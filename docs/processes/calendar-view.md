@@ -8,13 +8,13 @@ title: How to Use Gold Star's Calendar View
 
 ## Interface Pages
 {:start="2"}
-2. [What Monthly Calendar View Looks Like](/interfaces/monthly-view.html)
-3. [What Daily Calendar View Looks Like](/interfaces/daily-view.html)
+2. [What Monthly Calendar View Looks Like](../interfaces/monthly-view.html)
+3. [What Daily Calendar View Looks Like](../interfaces/daily-view.html)
 
 ## Task Pages
 {:start="4"}
-4. [How to Change Months and Years in Calendar View](/tasks/changing-months-and-year.html)
-5. [How to Select a Date in Calendar View](/tasks/select-date.html)
+4. [How to Change Months and Years in Calendar View](../tasks/changing-months-and-year.html)
+5. [How to Select a Date in Calendar View](../tasks/select-date.html)
 
 # What is a Calendar View?
 From what I understood, processes serve as the high-level explanation of our System Features from Lab 2. Interfaces serve as UI/"figure" references, while tasks are the individual functionalities ("e.g., how to log in, how to add a contact, how to not download more RAM")

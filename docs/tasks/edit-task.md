@@ -29,4 +29,4 @@ The system shall validate each inputted task property for the following criteria
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/task-management.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](add-task.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](delete-task.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/task-management.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](add-task.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](delete-task.md)

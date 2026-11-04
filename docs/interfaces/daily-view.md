@@ -13,4 +13,4 @@ Heading placed here in case we need it for Lab 4.
 Heading placed here in case we need it for Lab 4.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/calendar-view.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](monthly-view.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](/tasks/changing-months-and-years.html)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/calendar-view.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](monthly-view.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](../tasks/changing-months-and-years.html)

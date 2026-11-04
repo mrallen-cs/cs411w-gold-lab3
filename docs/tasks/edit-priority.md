@@ -19,4 +19,4 @@ The system shall provide the capability to classify tasks in the following Prior
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/priority.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](view-priority.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/priority.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](view-priority.md)

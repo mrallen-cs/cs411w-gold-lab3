@@ -18,4 +18,4 @@ The system shall display all associated tasks from a Habit Stack in the Schedule
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](save-habit-stack.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-habit-stack.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](save-habit-stack.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-habit-stack.md)

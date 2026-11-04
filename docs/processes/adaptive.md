@@ -9,13 +9,13 @@ title: How to Use Gold Star's Adaptive Scheduling
 
 ## Interface Page
 {:start="3"}
-3. [What Adaptive Scheduling Looks Like](/interfaces/adaptive-gui.html)
+3. [What Adaptive Scheduling Looks Like](../interfaces/adaptive-gui.html)
 
 ## Task Pages
 {:start="4"}
-4. [How to Submit Daily Productivity Level](/tasks/submit-productivity.html)
-5. [How to Reschedule Unfinished Tasks](/tasks/reschedule-tasks.html)
-6. [How to View Gold Star's Schedule Readjustment](/tasks/view-readjustment.html)
+4. [How to Submit Daily Productivity Level](../tasks/submit-productivity.html)
+5. [How to Reschedule Unfinished Tasks](../tasks/reschedule-tasks.html)
+6. [How to View Gold Star's Schedule Readjustment](../tasks/view-readjustment.html)
 
 # What is Adaptive Scheduling?
 From what I understood, processes serve as the high-level explanation of our System Features from Lab 2. Interfaces serve as UI/"figure" references, while tasks are the individual functionalities ("e.g., how to log in, how to add a contact, how to not download more RAM")
