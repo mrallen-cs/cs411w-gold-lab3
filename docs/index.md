@@ -10,11 +10,10 @@ Individuals with ADHD diagnoses or ADHD-like traits often struggle with consiste
 Gold Star is a web-based habit-building and time management platform to help users affected by ADHD. Gold Star helps organize schedules, break down tasks, and build sustainable routines. Gold Star intends to make daily routine development easier to start, maintain, and complete.
 
 
-## Navigation
+## Table of Contents
 
 - [References](references/)
 - [Glossary & Definitions](glossary/)
-- [Table of Contents](contents/)
 - [Processes](processes/)
 - [Interfaces](interfaces/)
 - [Tasks](tasks/)
