@@ -8,7 +8,7 @@ It may or may not stay for Lab 4.
 # List of Tasks
 
 ## Calendar View Tasks
-1. [How to Change Months and Years in Calendar View](changing-months-and-year.md)
+1. [How to Change Months and Years in Calendar View](changing-months-and-years.md)
 2. [How to Select a Date in Calendar View](select-date.md)
 
 ## Task Management Tasks
@@ -22,7 +22,7 @@ It may or may not stay for Lab 4.
 
 ## Daily Mood Check-In Tasks
 1. [How to Select a Daily Mood](select-mood.md)
-2. [How to Change a Daily Mood](edit-mood.md)
+2. [How to Edit a Daily Mood](edit-mood.md)
 
 ## Adaptive Scheduling Tasks
 1. [How to Submit Daily Productivity Level](submit-productivity.md)

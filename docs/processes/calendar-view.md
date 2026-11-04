@@ -13,7 +13,7 @@ title: How to Use Gold Star's Calendar View
 
 ## Task Pages
 {:start="4"}
-4. [How to Change Months and Years in Calendar View](../tasks/changing-months-and-year.html)
+4. [How to Change Months and Years in Calendar View](../tasks/changing-months-and-years.html)
 5. [How to Select a Date in Calendar View](../tasks/select-date.html)
 
 # What is a Calendar View?
