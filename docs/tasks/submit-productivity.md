@@ -21,4 +21,4 @@ productivity level.
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/adaptive.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/adaptive-gui.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](reschedule-tasks.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/adaptive.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/adaptive-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](reschedule-tasks.md)

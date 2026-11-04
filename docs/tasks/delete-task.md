@@ -16,4 +16,4 @@ The system shall ensure a specified task is removed from the following after the
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/task-management.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](edit-task.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/task-management.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](edit-task.md)

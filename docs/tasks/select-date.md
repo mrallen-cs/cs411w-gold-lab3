@@ -16,4 +16,4 @@ The application shall allow the Scheduler to choose from the following Task Mana
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/calendar-view.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](changing-months-and-years.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/calendar-view.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](changing-months-and-years.md)

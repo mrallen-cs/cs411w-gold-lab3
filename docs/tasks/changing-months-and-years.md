@@ -21,4 +21,4 @@ The application shall display the succeeding year's January's Monthly Calendar V
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/calendar-view.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/daily-view.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](select-date.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/calendar-view.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/daily-view.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](select-date.md)

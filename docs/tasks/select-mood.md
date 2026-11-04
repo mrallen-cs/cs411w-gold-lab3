@@ -28,4 +28,4 @@ The system shall allow the Scheduler to edit their mood throughout the day.
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/daily-mood.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/mood-gui.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-mood.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/daily-mood.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/mood-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-mood.md)

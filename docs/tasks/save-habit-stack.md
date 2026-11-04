@@ -18,4 +18,4 @@ The system shall store any changes made to the Habit Stack's sequence of tasks.
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](create-habit-stack.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](view-habit-stack.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](create-habit-stack.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](view-habit-stack.md)

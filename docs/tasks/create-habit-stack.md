@@ -22,4 +22,4 @@ currently saved tasks.
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/habit-gui.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](save-habit-stack.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/habit-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](save-habit-stack.md)

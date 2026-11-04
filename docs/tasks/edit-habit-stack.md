@@ -13,4 +13,4 @@ The system shall allow the Scheduler to change the task sequence within an exist
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](view-habit-stack.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](delete-task-from-habit-stack.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/habit.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](view-habit-stack.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](delete-task-from-habit-stack.md)

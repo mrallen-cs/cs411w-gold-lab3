@@ -8,12 +8,14 @@ title: How to Add, Edit, or Delete Calendar Tasks
 2. [What is Task Management?](#what-is-task-management)
 
 ## Interface Page
-3. [What Task Management Looks Like](/interfaces/task-management-gui.md)
+{:start="3"}
+3. [What Task Management Looks Like](/interfaces/task-management-gui.html)
 
 ## Task Pages
-4. [How to Add a Calendar Task](/tasks/add-task.md)
-5. [How to Edit a Calendar Task](/tasks/edit-task.md)
-6. [How to Delete a Calendar Task](/tasks/delete-task.md)
+{:start="4"}
+4. [How to Add a Calendar Task](/tasks/add-task.html)
+5. [How to Edit a Calendar Task](/tasks/edit-task.html)
+6. [How to Delete a Calendar Task](/tasks/delete-task.html)
 
 # What is a Calendar Task?
 From what I understood, processes serve as the high-level explanation of our System Features from Lab 2. Interfaces serve as UI/"figure" references, while tasks are the individual functionalities ("e.g., how to log in, how to add a contact, how to not download more RAM")
