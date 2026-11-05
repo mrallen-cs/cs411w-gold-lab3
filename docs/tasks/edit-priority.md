@@ -2,6 +2,7 @@
 layout: default
 title: How to Edit Priority Levels
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Editing Priority Levels
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these requirements in a more "User Manual"-like wording.
@@ -19,4 +20,4 @@ The system shall provide the capability to classify tasks in the following Prior
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/priority.md) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](view-priority.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/priority.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](view-priority.md)

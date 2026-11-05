@@ -2,6 +2,7 @@
 layout: default
 title: Gold Star Glossary
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Glossary
 - Activity Alternation: Switching from an activity requiring high mental focus to an activity requiring low mental focus.

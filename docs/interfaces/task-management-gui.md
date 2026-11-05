@@ -2,6 +2,7 @@
 layout: default
 title: What Task Management Looks Like
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Interface Screenshots
 Work in Progress. We need interface screenshots for Lab 4.
@@ -13,4 +14,4 @@ Heading placed here in case we need it for Lab 4.
 Heading placed here in case we need it for Lab 4.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/task-management.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/processes/task-management.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](/tasks/add-task.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/task-management.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](../processes/task-management.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](../tasks/add-task.html)

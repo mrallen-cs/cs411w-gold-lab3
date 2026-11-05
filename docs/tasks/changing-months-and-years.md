@@ -2,6 +2,7 @@
 layout: default
 title: How to Change Months and Years in Calendar View
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # The "Previous Month" Option
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these requirements in a more "User Manual"-like wording.
@@ -21,4 +22,4 @@ The application shall display the succeeding year's January's Monthly Calendar V
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/calendar-view.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/daily-view.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](select-date.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/calendar-view.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](../interfaces/daily-view.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](select-date.md)

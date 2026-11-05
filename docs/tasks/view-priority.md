@@ -2,6 +2,7 @@
 layout: default
 title: How to View Priority Levels
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Viewing Priority Levels via Date Selection
 In Lab 2, we avoided making a duplicate requirement for viewing Priority Levels since this already appeared under Task Management.
@@ -36,4 +37,4 @@ The system shall validate each inputted task property for the following criteria
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/priority.md) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](/interfaces/priority-gui.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-priority.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/priority.html) &nbsp; &nbsp; &nbsp;[[<- Previous Page]](../interfaces/priority-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-priority.md)

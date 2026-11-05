@@ -2,6 +2,7 @@
 layout: default
 title: How to Select a Date in Calendar View
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Interacting with a Date's Tasks
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these requirements in a more "User Manual"-like wording.
@@ -16,4 +17,4 @@ The application shall allow the Scheduler to choose from the following Task Mana
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/calendar-view.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](changing-months-and-years.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/calendar-view.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](changing-months-and-years.md)

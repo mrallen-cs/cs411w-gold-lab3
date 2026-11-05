@@ -2,6 +2,7 @@
 layout: default
 title: How to Add a Calendar Task
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # The "Add Task" Option
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these requirements in a more "User Manual"-like wording.
@@ -29,4 +30,4 @@ The system shall validate each inputted task property for the following criteria
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/processes/task-management.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/task-management-gui.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-task.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/task-management.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](../interfaces/task-management-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-task.md)

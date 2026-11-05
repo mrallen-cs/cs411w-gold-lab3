@@ -2,6 +2,7 @@
 layout: default
 title: How to Select a Daily Mood
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Selecting a Mood
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these details in a more "User Manual"-like wording.
@@ -28,4 +29,4 @@ The system shall allow the Scheduler to edit their mood throughout the day.
 May not be necessary, but listed here in case we need it.
 
 # Navigation
-[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](/interfaces/daily-mood.md) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](/interfaces/mood-gui.md) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-mood.md)
+[Return to Homepage](../) &nbsp; &nbsp; &nbsp; [Return to Table of Contents](../processes/daily-mood.html) &nbsp; &nbsp; &nbsp; [[<- Previous Page]](../interfaces/mood-gui.html) &nbsp; &nbsp; &nbsp; [[-> Next Page]](edit-mood.md)

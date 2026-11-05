@@ -2,6 +2,8 @@
 layout: default
 title: Gold Star References Page
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 # References
 - ADHD Philadelphia. (2026, May 30). Why Adults With ADHD Struggle to Stay Consistent With Routines. ADHD Philadelphia. https://www.adhdphiladelphia.com/blog/why-adults-with-adhd-struggle-to-stay-consistent-with-routines
 - Advanced Psychiatry Associates. (2026). Strategies for Adults Living With ADHD. Addicta. https://advancedpsychiatryassociates.com/resources/blog/strategies-for-adults-living-with-adhd
