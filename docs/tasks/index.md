@@ -3,6 +3,7 @@ layout: default
 title: Gold Star Tasks
 ---
 **Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 This page is intended to organize every main Process' (or System Feature's) Task(s) for Lab 4.
 It may or may not stay for Lab 4.
 
