@@ -7,23 +7,23 @@ It may or may not stay for Lab 4.
 
 # List of Interfaces
 
-# Calendar View Interfaces
+## Calendar View Interfaces
 1. [Monthly Calendar View](monthly-view.md)
 2. [Daily Calendar View](daily-view.md)
 
-# Task Management Interfaces
+## Task Management Interfaces
 1. [Task Management](task-management-gui.md)
 
-# Task Priority Level Interface
+## Task Priority Level Interface
 1. [Task Priority Level](priority-gui.md)
 
-# Daily Mood Check-In Interface
+## Daily Mood Check-In Interface
 1. [Daily Mood Check-In](mood-gui.md)
 
-# Adaptive Scheduling Interface
+## Adaptive Scheduling Interface
 1. [Adaptive Scheduling](adaptive-gui.md)
 
-# Habit Stacking Interface
+## Habit Stacking Interface
 1. [Habit Stacking](habit-gui.md)
 
 [Return to Homepage](../)

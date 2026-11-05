@@ -8,11 +8,9 @@ title: How to Add, Edit, or Delete Calendar Tasks
 2. [What is Task Management?](#what-is-task-management)
 
 ## Interface Page
-{:start="3"}
 3. [What Task Management Looks Like](../interfaces/task-management-gui.html)
 
 ## Task Pages
-{:start="4"}
 4. [How to Add a Calendar Task](../tasks/add-task.html)
 5. [How to Edit a Calendar Task](../tasks/edit-task.html)
 6. [How to Delete a Calendar Task](../tasks/delete-task.html)
@@ -21,8 +19,8 @@ title: How to Add, Edit, or Delete Calendar Tasks
 From what I understood, processes serve as the high-level explanation of our System Features from Lab 2. Interfaces serve as UI/"figure" references, while tasks are the individual functionalities ("e.g., how to log in, how to add a contact, how to not download more RAM")
 
 For Lab 4, I think this should contain:
-    - A basic introduction to the Process: what is it, why is it necessary for the reader, etc. The reader should be a user (i.e., "Scheduler"), not a developer.
-    - Any terminology we will need to introduce to the reader. This might include feature names or phrases like "Rigid Scheduling", hopefully nothing techy.
+- A basic introduction to the Process: what is it, why is it necessary for the reader, etc. The reader should be a user (i.e., "Scheduler"), not a developer.
+- Any terminology we will need to introduce to the reader. This might include feature names or phrases like "Rigid Scheduling", hopefully nothing techy.
 
 The Table of Contents' format may change for Lab 4, but this is just to get the main pages set up.
 

@@ -20,3 +20,5 @@ Gold Star is a web-based habit-building and time management platform to help use
 6. [Gold Star Website](https://mbrag003.github.io/CS410-411W-Gold/)
 7. [ODU Website](https://www.odu.edu)
 8. [ODU Computer Science Department Website](https://www.odu.edu)
+9. [GitHub Pages Version of Site](https://mrallen-cs.github.io/cs411w-gold-lab3/)
+10. [GitHub Wiki Version of Site](https://github.com/mrallen-cs/cs411w-gold-lab3/wiki)
