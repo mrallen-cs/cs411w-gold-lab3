@@ -2,6 +2,7 @@
 layout: default
 title: How to Use Gold Star's Habit Stacking
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Table of Contents
 ## Process Information

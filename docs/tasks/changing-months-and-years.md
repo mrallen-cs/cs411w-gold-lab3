@@ -2,6 +2,7 @@
 layout: default
 title: How to Change Months and Years in Calendar View
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # The "Previous Month" Option
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these requirements in a more "User Manual"-like wording.

@@ -2,6 +2,7 @@
 layout: default
 title: Gold Star Wiki
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Gold Star
 

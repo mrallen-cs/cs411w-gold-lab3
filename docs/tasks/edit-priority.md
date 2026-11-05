@@ -2,6 +2,7 @@
 layout: default
 title: How to Edit Priority Levels
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Editing Priority Levels
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these requirements in a more "User Manual"-like wording.

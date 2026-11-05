@@ -2,6 +2,7 @@
 layout: default
 title: How to Create a New Habit Stack
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Creating Habit Stacks
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these details in a more "User Manual"-like wording.

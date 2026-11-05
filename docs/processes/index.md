@@ -2,6 +2,8 @@
 layout: default
 title: Gold Star Processes
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 # List of Processes
 1. [How to Use Gold Star's Calendar View](calendar-view.md)
 2. [How to Add, Edit, or Delete Calendar Tasks](task-management.md)

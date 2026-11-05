@@ -2,6 +2,7 @@
 layout: default
 title: How to Edit a Calendar Task
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # The "Edit Task" Option
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these requirements in a more "User Manual"-like wording.

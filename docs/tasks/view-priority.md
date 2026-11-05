@@ -2,6 +2,7 @@
 layout: default
 title: How to View Priority Levels
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Viewing Priority Levels via Date Selection
 In Lab 2, we avoided making a duplicate requirement for viewing Priority Levels since this already appeared under Task Management.

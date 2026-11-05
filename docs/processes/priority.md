@@ -2,6 +2,8 @@
 layout: default
 title: How to Set a Task's Priority Level
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 # Table of Contents
 ## Process Information
 1. [What is a Task Priority Level?](#what-is-a-task-priority-level)

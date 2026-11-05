@@ -2,6 +2,8 @@
 layout: default
 title: How to Use Gold Star's Adaptive Scheduling
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 # Table of Contents
 ## Process Information
 1. [What is Adaptive Scheduling?](#what-is-adaptive-scheduling)

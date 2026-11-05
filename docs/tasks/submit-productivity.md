@@ -2,6 +2,7 @@
 layout: default
 title: How to Submit Daily Productivity Level
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Submitting a Daily Productivity Level
 The text below is from Lab 2 Section 3 as a placeholder. For Lab 4, we must express these details in a more "User Manual"-like wording.

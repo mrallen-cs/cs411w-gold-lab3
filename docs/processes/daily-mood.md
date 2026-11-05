@@ -2,6 +2,8 @@
 layout: default
 title: How to Use Gold Star's Daily Mood Check-In
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 # Table of Contents
 ## Process Information
 1. [What is the Daily Mood Check-In?](#what-is-the-daily-mood-check-in)

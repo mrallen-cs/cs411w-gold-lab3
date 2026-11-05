@@ -2,6 +2,8 @@
 layout: default
 title: How to Add, Edit, or Delete Calendar Tasks
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 # Table of Contents
 ## Process Information
 1. [What is a Calendar Task?](#what-is-a-calendar-task)

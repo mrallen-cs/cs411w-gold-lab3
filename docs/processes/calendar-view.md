@@ -2,6 +2,8 @@
 layout: default
 title: How to Use Gold Star's Calendar View
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
+
 # Table of Contents
 ## Process Information
 1. [What is a Calendar View?](#what-is-a-calendar-view)

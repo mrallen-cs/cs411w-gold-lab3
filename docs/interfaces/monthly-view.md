@@ -2,6 +2,7 @@
 layout: default
 title: What Monthly Calendar View Looks Like
 ---
+**Authors:** Matthew Allen, Aaron Brackett, Maggie Bragg, Jeffrey Bucher, Autumn Carey, Evelyn Faye, Miguel Looney, Lydia Nebuchadnezzar
 
 # Interface Screenshots
 Work in Progress. We need interface screenshots for Lab 4.
